@@ -21,7 +21,7 @@ conda install seaborn
 
 ## Screenshots
 
-![Screenshot 1](screnshots/screenshot_1.png)
+![Screenshot 1](https://raw.githubusercontent.com/codelabspro/ontology/main/screenshots/screenshot_1.png)
 
 ## Kaggle Dataset for this
 
