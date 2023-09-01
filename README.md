@@ -43,6 +43,12 @@ conda install "uvicorn[standard]"
 * Activate ontology kernel in VScode
 
 
+## Run uvicorn server
+
+```
+uvicorn main:app --reload
+```
+
 ## Screenshots
 
 ![Screenshot 1](https://raw.githubusercontent.com/codelabspro/ontology/main/screenshots/screenshot_1.png)
