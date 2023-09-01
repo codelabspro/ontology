@@ -11,7 +11,7 @@ model = ViltForQuestionAnswering.from_pretrained("dandelin/vilt-b32-finetuned-vq
 # image = Image.open(requests.get(url, stream=True).raw)
 # text = "How many cats are there?"
 
-def model_pipeline(text: string, image: Image):
+def model_pipeline(text: str, image: Image):
 
     # prepare inputs
     encoding = processor(image, text, return_tensors="pt")

@@ -38,6 +38,8 @@ conda install fastapi
 
 conda install "uvicorn[standard]"
 
+python-multipart
+
 ```
 
 * Activate ontology kernel in VScode
@@ -65,4 +67,6 @@ https://www.kaggle.com/datasets/camnugent/ufo-sightings-around-the-world?resourc
 ## Hugging Face Dataset for Ontology
 
 https://huggingface.co/dandelin/vilt-b32-finetuned-vqa
+
+https://huggingface.co/docs/transformers/model_doc/idefics
 
