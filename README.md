@@ -34,6 +34,10 @@ conda install transformers
 
 conda install pytorch torchvision -c pytorch
 
+conda install fastapi
+
+conda install "uvicorn[standard]"
+
 ```
 
 * Activate ontology kernel in VScode

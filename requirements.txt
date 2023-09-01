@@ -3,6 +3,8 @@
 # platform: osx-arm64
 aiohttp=3.8.5=py311heffc1b2_0
 aiosignal=1.3.1=pyhd8ed1ab_0
+annotated-types=0.5.0=pyhd8ed1ab_0
+anyio=4.0.0=pyhd8ed1ab_0
 appnope=0.1.3=pyhd8ed1ab_0
 asttokens=2.2.1=pyhd8ed1ab_0
 async-timeout=4.0.3=pyhd8ed1ab_0
@@ -41,7 +43,9 @@ datasets=2.14.4=pyhd8ed1ab_0
 debugpy=1.6.8=py311ha891d26_0
 decorator=5.1.1=pyhd8ed1ab_0
 dill=0.3.7=pyhd8ed1ab_0
+exceptiongroup=1.1.3=pyhd8ed1ab_0
 executing=1.2.0=pyhd8ed1ab_0
+fastapi=0.103.0=pyhd8ed1ab_0
 filelock=3.12.3=pyhd8ed1ab_0
 fonttools=4.42.1=py311heffc1b2_0
 freetype=2.12.1=hd633e50_1
@@ -51,6 +55,7 @@ gflags=2.2.2=hc88da5d_1004
 glog=0.6.0=h6da1cb0_0
 gmp=6.2.1=h9f76cd9_0
 gmpy2=2.1.2=py311h2ba9262_1
+h11=0.14.0=pyhd8ed1ab_0
 huggingface_hub=0.16.4=pyhd8ed1ab_0
 idna=3.4=pyhd8ed1ab_0
 importlib-metadata=6.8.0=pyha770c72_0
@@ -138,6 +143,8 @@ pthread-stubs=0.4=h27ca646_1001
 ptyprocess=0.7.0=pyhd3deb0d_0
 pure_eval=0.2.2=pyhd8ed1ab_0
 pyarrow=13.0.0=py311hd7bc329_0_cpu
+pydantic=2.3.0=pyhd8ed1ab_0
+pydantic-core=2.6.3=py311h0563b04_0
 pygments=2.16.1=pyhd8ed1ab_0
 pyparsing=3.0.9=pyhd8ed1ab_0
 pysocks=1.7.1=pyha2e5f31_6
@@ -163,7 +170,9 @@ setuptools=68.1.2=pyhd8ed1ab_0
 six=1.16.0=pyh6c4a22f_0
 sleef=3.5.1=h156473d_2
 snappy=1.1.10=h17c5cce_0
+sniffio=1.3.0=pyhd8ed1ab_0
 stack_data=0.6.2=pyhd8ed1ab_0
+starlette=0.27.0=pyhd8ed1ab_0
 statsmodels=0.14.0=py311hb49d859_1
 sympy=1.12=pypyh9d50eac_103
 tk=8.6.12=he1e0b03_0
@@ -177,6 +186,7 @@ typing-extensions=4.7.1=hd8ed1ab_0
 typing_extensions=4.7.1=pyha770c72_0
 tzdata=2023c=h71feb2d_0
 urllib3=2.0.4=pyhd8ed1ab_0
+uvicorn=0.23.2=py311h267d04e_0
 wcwidth=0.2.6=pyhd8ed1ab_0
 wheel=0.41.2=pyhd8ed1ab_0
 xorg-libxau=1.0.11=hb547adb_0
