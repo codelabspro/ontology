@@ -15,6 +15,9 @@ conda install pandas
 
 conda install seaborn
 
+conda install transformers
+
+conda install pytorch torchvision -c pytorch
 
 ```
 
@@ -33,4 +36,8 @@ conda install seaborn
 
 https://www.kaggle.com/datasets/camnugent/ufo-sightings-around-the-world?resource=download
 
+
+## Hugging Face Dataset for Ontology
+
+https://huggingface.co/dandelin/vilt-b32-finetuned-vqa
 
