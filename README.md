@@ -8,6 +8,14 @@ Analysis of UFO sightings around the world using Python, Pandas, Seaborn, Matplo
 
 - FastAPI project wrapper is in OntologyML folder
 
+## Duplicate conda envinronment
+
+```
+conda list --export > requirements.txt
+
+conda create --name <envname> --file requirements.txt
+
+```
 
 ## Steps
 
