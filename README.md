@@ -2,6 +2,13 @@
 
 Analysis of UFO sightings around the world using Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook, VScode, Anaconda, Kaggle
 
+## Notes
+
+- FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+
+- FastAPI project wrapper is in OntologyML folder
+
+
 ## Steps
 
 ```
