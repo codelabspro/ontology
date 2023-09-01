@@ -16,8 +16,8 @@ def read_root():
 def ask(text: str, image: UploadFile):
     content = image.file.read()
     
-    # image = Image(io.BytesIO(content))
-    image = Image(image.file)
+    # image = Image(image.file)
+    image = Image.open(io.BytesIO(content))
     
     result = model_pipeline(text, image)
     
