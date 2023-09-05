@@ -51,6 +51,18 @@ python-multipart
 uvicorn main:app --reload
 ```
 
+## Steps for Dockerizing
+
+```
+
+```
+
+## PROD
+
+```
+uvicorn 'main:app' --host=0.0.0.0 --port=80
+```
+
 ## Screenshots
 
 ![Screenshot 1](https://raw.githubusercontent.com/codelabspro/ontology/main/screenshots/screenshot_1.png)
